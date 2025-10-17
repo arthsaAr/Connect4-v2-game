@@ -1,3 +1,11 @@
+/******************************************************************************
+*  File Name:    ConnectFour.java
+*  Author:       Raashtra KC
+*  Date:         2025-04-11
+*  Language:     Java
+*  Notes:        Requires the class files in /lib to compile.
+******************************************************************************/
+
 import javax.swing.*;
 
 /**

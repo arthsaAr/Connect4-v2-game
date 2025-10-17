@@ -1,3 +1,11 @@
+/******************************************************************************
+*  File Name:    GUIHumanPlayer.java
+*  Author:       Raashtra KC
+*  Date:         2025-04-11
+*  Language:     Java
+*  Notes:        Requires the class files in /lib to compile.
+******************************************************************************/
+
 /**
  * GUIHumanPlayer represents a human player using the GUI for move input.
  * It polls the GUIBoard for user input and constructs a Move accordingly.
